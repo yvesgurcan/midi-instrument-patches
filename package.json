@@ -1,7 +1,7 @@
 {
   "name": "midi-instrument-patches",
-  "version": "1.0.1",
-  "description": "Instrument patches to play MIDI files",
+  "version": "1.0.2",
+  "description": "🎶 Instrument patches to play MIDI files",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yvesgurcan/midi-instrument-patches.git"
