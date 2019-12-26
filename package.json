@@ -1,0 +1,15 @@
+{
+  "name": "midi-instrument-patches",
+  "version": "1.0.1",
+  "description": "Instrument patches to play MIDI files",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvesgurcan/midi-instrument-patches.git"
+  },
+  "author": "Yves Gurcan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yvesgurcan/midi-instrument-patches/issues"
+  },
+  "homepage": "https://github.com/yvesgurcan/midi-instrument-patches#readme"
+}
